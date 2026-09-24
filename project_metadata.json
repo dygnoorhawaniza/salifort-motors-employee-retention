@@ -1,0 +1,16 @@
+{
+  "project": "Salifort Motors Employee Retention Analysis",
+  "domain": "HR Analytics",
+  "primary_task": "Employee turnover classification",
+  "models": [
+    "Logistic Regression",
+    "Decision Tree",
+    "Random Forest"
+  ],
+  "final_model_reported": "Feature-engineered Random Forest",
+  "test_auc": 0.938407,
+  "test_accuracy": 0.961641,
+  "test_precision": 0.870406,
+  "test_recall": 0.903614,
+  "test_f1": 0.8867
+}
